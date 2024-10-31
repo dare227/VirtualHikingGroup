@@ -1,0 +1,19 @@
+WIREFRAMES:
+Our home page has the top navigation which have the logo and further to the right their are buttons that redirect to different pages of the website. The Top navigation have a hover animation, which highlights a button when you hover onto it. In the center we put a description of virtual walk and under that is the a "Get Started" button that also redirect to "The Hike" page for people who like to go directly to the our product. 
+
+The about page is mostly static except for the top navigation. In this page we welcome our potential customers, introduce our group, and our goal.
+
+In this page, we showcase our "products" or the list of places for our virtual walks. When you hover to one of the element, it should scale-up indicating that it can be click for more information. each element should redirect you to a new page where you can watch the video and read detailed description about the place so visitors can have a general idea of what kind of trail or appeal of the place.
+
+For the contact page, we decided to use a form type so that user/visitors can ask questions easily. It should also have the company telephone number, link to social media, and email.
+
+MOCKUP:
+For Mockup the home page, we went for the dark gray hiking image as the background and white text for accessibilty. And use brown to the "Get Started" button.
+
+In the about page, we decided to not include our personal information for now because each group members wants their our own privacies.
+
+Similar to home page, we set it to dark gray theme with white text for accessibility. At the top of the page, it should have the header text of its region or city. And following our color palletes, we use green for each element of the virtual walk. Also, for each element their should be a high resolution image of the place and under it is the name of the trail or place and its distance. 
+
+lastly, our contact page is pretty much the same with the wireframes but using white background and black text color for accessibility.
+
+Thank you for being here today. We really appreciate that you took the time be here and listen to our presentation.
